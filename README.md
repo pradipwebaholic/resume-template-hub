@@ -1,5 +1,5 @@
-<h1 align="center">Frontend Learning Kit</h1>
-<h4 align="center">Frontend tech guide and collection of highly recommended materials</h3>
+<h1 align="center">Modern Resume Repository</h1>
+
 <div align="center">
     <p>
 	    <a name="stars"><img src="https://img.shields.io/github/stars/pradipwebaholic/resume-template-hub?style=for-the-badge"></a>
@@ -20,6 +20,6 @@
   Author  | Files   |
 | ----------- | ----------- | 
 | Pai      | [Visual resume](./resume.jpg#home)  |
-| Pradip   | [Doc](./challenges/functions-concepts.md#home)  
+| Pai  | [External File](https://www.figma.com/community/file/1064893778677091172)  
 
 
